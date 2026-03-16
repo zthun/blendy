@@ -21,8 +21,6 @@ packages:
     - file-roller
 aur-packages:
     - emulationstation-de
-    - mktorrent-git
-    - torrent7z
 services:
     - avahi-daemon
     - sshd
