@@ -1,0 +1,30 @@
+arch-repo: https://geo.mirror.pkgbuild.com
+impl: https://github.com/blend-os/tracks/raw/main
+repo: https://pkg-repo.blendos.co
+track: xfce
+packages:
+    - flatpak
+    - xorg-xrandr
+    - xdg-desktop-portal-gtk
+    - xfce4-goodies
+    - xfce4-wavelan-plugin
+    - xfce4-pulseaudio-plugin
+    - xfce4-whiskermenu-plugin
+    - pipewire-pulse
+    - wireplumber
+    - pavucontrol
+    - gvfs
+    - gvfs-mtp
+    - gvfs-smb
+    - ucon64
+    - thunar-archive-plugin
+    - file-roller
+aur-packages:
+    - emulationstation-de
+    - mktorrent-git
+    - torrent7z
+    - pkg2zip-fork
+services:
+    - avahi-daemon
+    - sshd
+    - xdg-desktop-portal-gtk
