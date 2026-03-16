@@ -23,7 +23,6 @@ aur-packages:
     - emulationstation-de
     - mktorrent-git
     - torrent7z
-    - pkg2zip-fork
 services:
     - avahi-daemon
     - sshd
