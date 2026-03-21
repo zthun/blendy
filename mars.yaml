@@ -9,7 +9,7 @@ packages:
     - xfce4-goodies
     - xfce4-wavelan-plugin
     - xfce4-pulseaudio-plugin
-    - xfce4-whiskermenu-plugin
+    - xfce4-whiskermenu-pluginsss
     - pipewire-pulse
     - wireplumber
     - pavucontrol
@@ -19,6 +19,7 @@ packages:
     - ucon64
     - thunar-archive-plugin
     - file-roller
+    - gparted
 aur-packages:
     - emulationstation-de
 services:
