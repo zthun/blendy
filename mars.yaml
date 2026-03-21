@@ -9,7 +9,7 @@ packages:
     - xfce4-goodies
     - xfce4-wavelan-plugin
     - xfce4-pulseaudio-plugin
-    - xfce4-whiskermenu-pluginsss
+    - xfce4-whiskermenu-plugin
     - pipewire-pulse
     - wireplumber
     - pavucontrol
